@@ -1,0 +1,56 @@
+.Hotel{
+    display: inline;
+    border-collapse: collapse;
+}
+body{
+    background-color: peachpuff;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(58, 58, 192);
+}
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+nav ul{
+    border-style: solid;
+    background-color: sandybrown;
+    border-color:  whitesmoke;
+    padding: 11px;
+    border-radius: 11px;
+}
+nav ul li{
+    list-style-type: none;
+    display: inline;
+    padding: 11px;
+}
+table, th, td{
+    border: 2px solid rgb(131, 72, 0);
+    border-collapse: collapse;
+    padding: 2px;
+    color: rgb(159, 60, 60);
+}
+a{
+    text-decoration: none;
+    color: firebrick;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+img{
+    border: solid 2px whitesmoke;
+    border-radius: 11px;
+    width: 200px;
+    height: 200px;
+}
+small{
+    text-decoration: wavy;
+}
+table{
+    text-align: center;
+}
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}

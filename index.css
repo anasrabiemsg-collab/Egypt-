@@ -59,3 +59,22 @@ p{
     color: firebrick;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+.Myvideo{
+    min-height: 100%;
+    min-width: 100%;
+    right: 0;
+    bottom: 0;
+    position: fixed;
+}
+.back{
+    background: rgba(255, 255, 255, 0.74);
+    width: 899px;
+    min-width: 940px;
+    min-height: 720px;
+    margin: 50px auto;
+    font-family: 'raleway';
+    padding: 20px;
+    border-radius: 10px;
+    position: fixed;
+    border: solid 3px firebrick;  
+}

@@ -44,6 +44,7 @@ img{
     border-radius: 11px;
     width: 200px;
     height: 200px;
+    margin: 10px;
 }
 small{
     text-decoration: wavy;

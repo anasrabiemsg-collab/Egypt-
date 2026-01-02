@@ -51,6 +51,11 @@ small{
 table{
     text-align: center;
 }
+li{
+    color: firebrick;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 p{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    color: firebrick;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }

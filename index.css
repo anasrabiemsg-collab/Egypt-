@@ -78,3 +78,6 @@ p{
     position: fixed;
     border: solid 3px firebrick;  
 }
+#x{
+    min-height: min-content;
+}

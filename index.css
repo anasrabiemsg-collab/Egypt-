@@ -70,14 +70,11 @@ p{
     background: rgba(255, 255, 255, 0.74);
     width: 899px;
     min-width: 940px;
-    min-height: 720px;
+    min-height: min-content;
     margin: 50px auto;
     font-family: 'raleway';
     padding: 20px;
     border-radius: 10px;
     position: fixed;
     border: solid 3px firebrick;  
-}
-#x{
-    min-height: min-content;
 }

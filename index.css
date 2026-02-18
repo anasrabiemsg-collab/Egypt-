@@ -79,3 +79,21 @@ p{
     position: fixed;
     border: solid 3px firebrick;  
 }
+div{
+    border-radius: 21px;
+    border: solid white;
+    box-shadow: 11px;
+    width: 100vh;
+    margin: 10px;
+    height: min-content;
+}
+section{
+    flex-wrap: wrap;
+    grid-template-columns: min-content;
+}
+.menu{
+    display: inline;
+}
+.s1{
+    border-collapse: collapse;
+}
